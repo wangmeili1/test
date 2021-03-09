@@ -1,5 +1,5 @@
 - JavaScript
-  - [闭包](closure.md)
+  - [js基础](closure.md)
   - [原型](prototype.md)
 
 - CSS
