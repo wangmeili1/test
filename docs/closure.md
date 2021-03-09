@@ -31,6 +31,7 @@
 ### 3.3 Object.prototype.toString.call()
         toString()是Object的原型方法，统一返回格式为'[object Xxx]'的字符串 
 
+```javascript
         function getType(obj){
             let type  = typeof obj;
             if (type !== "object") {    // 先进行typeof判断，如果是基础数据类型，直接返回
@@ -48,6 +49,7 @@
         getType()            // "undefined" typeof 直接返回
         getType(function(){}) // "function" typeof能判断，因此首字母小写
         getType(/123/g)      //"RegExp" toString返回
+```
 
 ## 3.数据类型转换
 ### 3.1 强制类型转换
