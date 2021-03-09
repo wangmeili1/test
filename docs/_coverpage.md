@@ -1,4 +1,4 @@
-![logo](_media/WechatIMG197.jpeg)
+![logo](imgs/1.jpg)
 
 # 徐二驴子 <small>3.5</small>
 
